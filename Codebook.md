@@ -1,5 +1,7 @@
 Working with data
 
+Source data set given in the link below: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Description of the run_analytics.R process
 
 1. load library(dplyr)
